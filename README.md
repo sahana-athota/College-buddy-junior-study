@@ -1,25 +1,14 @@
 # NPSKhack-Deens
 
-Welcome to NPSk-hack 2023! This is your official github repository. We will track your submissions via this repository. Your team can use this repository as a general version control system, but we need at least one push hourly to prevent any plagiarism. Your final submission code should be uploaded in this repository by the end of day 1 without fail.
+Team - Deens Academy
 
-We hope everyone has git installed in their systems. Here are some basic git bash commands you may need.
+Our project will address the Social Impact theme. 
 
-(Open the git bash in your system to use these commands)-
+How this will work-
+Our websites is a way for connecting urban students to teach rural students. they can give courses on different topics, such as english or photo editing.
 
-**git init** 
+1. Urban students sign up for teaching children - this helps them with college credit, and just feeling good about doing something great for society. Students are now expected to give a list of free time, and courses they could take, along with the duration of each course. 
+2. Most rural government schools have atleast one projector, tv and a computer. We connect with these schools, and ask them to enroll for any of the courses based on convinience and requirement. 
+3. Students from 11th and 12th grade, can now teach the rural junior students about important skills, or just english through a video meeting. 
 
-**git add .** (the '.' is used for adding all untracked/new files)
-
-**git commit -m "<message>"**
-
-**git branch -M main** #(to move to the main branch just incase you aren't)
-
-**git remote add origin https://github.com/npskrmhack/NPSKhack-Deens.git**
-
-**git push -u -f origin main** #(the -u switch makes the remote GitHub repo the default for your existing project. The -f switch forces Git to overwrite any files that already exist on GitHub with your existing project’s files)
-
-If you have any git doubts feel free to search the same online or inform your volunteer.
-
-All the best! Happy coding!
-
-
+Prerequisite- Flask and MYSQL connector
